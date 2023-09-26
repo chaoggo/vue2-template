@@ -4,6 +4,23 @@
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Include dependencies
+  -  "axios": "^1.4.0",
+  -  "element-ui": "^2.15.13",
+  -  "lodash-es": "^4.17.21",
+  -  "qs": "^6.11.2",
+  -  "vue": "^2.7.7",
+  -  "vue-i18n": "^8.28.2",
+  -  "vue-router": "^3.5.4",
+  -  "vuex": "^3.6.2"
+  -  "sass": "^1.64.1",
+  -  "stylelint": "^15.10.2",
+  -  "vite": "^3.0.2",
+  -  "commitizen": "^4.3.0",
+  -  "commitlint": "^17.6.7",
+  -  "eslint": "^8.5.0",
+  -  "prettier": "^2.5.1",
+
 ## git
 
 ```sh

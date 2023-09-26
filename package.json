@@ -1,6 +1,11 @@
 {
   "name": "vue2-template",
   "version": "1.0.0",
+  "author": {
+    "name": "chaoggoc",
+    "email": "chaoggoc@163.com"
+  },
+  "description": "vue 2 template 开发模板",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
